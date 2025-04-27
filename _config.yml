@@ -1,14 +1,22 @@
+<<<<<<< HEAD
 title: Publishing to GitHub Pages: Starter Pack
 description: Final documentation project made as part of Technical Communication studies at Vistula University.
+=======
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+>>>>>>> parent of c802ecf (Further fixes)
 theme: just-the-docs
 
-url: https://beaskoczy.github.io/githubpages-publication/
+url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+<<<<<<< HEAD
 
 color_schene: dark
 
 heading_anchors: true
 
 
+=======
+>>>>>>> parent of c802ecf (Further fixes)
