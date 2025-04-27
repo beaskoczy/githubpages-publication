@@ -1,3 +1,9 @@
+---
+title: Introduction
+layout: default
+nav_order: 2
+---
+
 # Introduction
 
 If you are reading this, you are probably interested in publishing your technical documentation online. Congratulations on taking this first step and opening this guide. Uploading your technical documentation to a website may seem daunting, but it is easier than it looks like. This guide will walk you through this process.
