@@ -11,9 +11,4 @@ color_schene: dark
 
 heading_anchors: true
 
-# Navigation links
-  aux_links:
-    "View on GitHub":
-        - "https://github.com/beaskoczy/githubpages-publication"
-
 
