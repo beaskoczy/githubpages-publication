@@ -1,6 +1,6 @@
 ---
-title: Publishing to GitHub Pages - Starter Pack
-layout: home
+title: Home
+layout: default
 nav_order: 1
 ---
 
