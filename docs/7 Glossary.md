@@ -4,6 +4,8 @@ layout: default
 nav_order: 8
 ---
 
+# Glossary
+
 | Term         | Definition |
 |--------------|------------|
 | commit | Saved change in a project repository's version control system. |
