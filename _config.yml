@@ -1,8 +1,10 @@
-title: Just the Docs Template
+title: How to Publish from Just-the-Docs Jekyll, MadCap Flare, and oXygen XML to GitHub Pages
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://beaskoczy.github.io/githubpages-publication/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_schene: dark
