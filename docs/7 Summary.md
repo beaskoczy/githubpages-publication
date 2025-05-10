@@ -6,7 +6,7 @@ nav_order: 8
 
 If you are reading this chapter, that means you have completed reading this guide. We hope you enjoyed it and gained invaluable insights into the technical documentation tools you can use for your project. You have also learned about GitHub Pages - a free hosting service that integrates seamlessly with many software development tools, allowing you to upload and host your documentation online for free. This guide uses GitHub Desktop, a user-friendly GitHub application, to ensure a smooth setup process.
 
-This guide began with a comparative table that outlined pros and cons of each documentation setup, helping you evaluate them against your project requirements and needs.
+This guide began with a comparative table that outlined the pros and cons of each documentation setup, helping you evaluate them against your project requirements and needs.
 
 Throughout this guide, we have presented three of the most popular technical documentation tools:
 

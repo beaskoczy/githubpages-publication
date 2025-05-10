@@ -7,15 +7,15 @@ has_children: true
 
 # What is GitHub Pages?
 
-GitHub Pages is a free online hosting service. It allows you to publish static websites directly from a GitHub repository. It supports various input methods (including HTML, XML and Markdown files). It doesn’t matter which method you choose - GitHub Pages automatically builds your content into a website without the need to set up a traditional web server. 
+GitHub Pages is a free online hosting service. It allows you to publish static websites directly from a GitHub repository. It supports various input methods (including HTML, XML and Markdown files). It doesn’t matter which method you choose - GitHub Pages automatically builds your content into a website without the need to use a regular web server. 
 
 ## Benefits
 
-Publishing to GitHub Pages has many advantages beyond being free:
+Publishing to GitHub Pages is free, but it has many more advantages:
 
 * It is **easy to deploy** - there is no need for server maintenance. Everything is handled through GitHub. Any updates to your documentation project are deployed through repository changes.
-* It has flexible **hosting options** - your project can be hosted either using the deafult Github address (http://username.github.io) or a [custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages).
-* It is based on **version control integration** - GitHub Pages allows you to collaborate easily on your projects. Team members can work on multiple branches and submit pull requests which allows you to track contributions and maintain version history for your documentation.
+* It has flexible **hosting options** - your project can be hosted either using the default Github address (http://username.github.io) or a [custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages).
+* It is based on **version control integration** - GitHub Pages allows you to collaborate easily on your projects. Team members can work on multiple branches and submit pull requests which allow you to track contributions and maintain version history for your documentation.
 
 ## Setting up GitHub Desktop
 
