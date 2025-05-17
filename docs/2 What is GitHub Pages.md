@@ -19,4 +19,4 @@ Publishing to GitHub Pages is free, but it has many more advantages:
 
 ## Setting up GitHub Desktop
 
-You can publish to GitHub Pages either through command line or using GitHub Desktop. In this project, you are going to create your publication using GitHub Desktop. Click [here](/docs/2.1%20Setting%20up%20GitHub%20Desktop.md) to read the tutorial for setting up GitHub application on your operating system. 
+You can publish to GitHub Pages either through command line or using GitHub Desktop. In this project, you are going to create your publication using [GitHub Desktop](2.1%20Setting%20up%20GitHub%20Desktop).
