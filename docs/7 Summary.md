@@ -1,7 +1,7 @@
 ---
 title: Summary
 layout: default
-nav_order: 8
+nav_order: 7
 ---
 
 If you are reading this chapter, that means you have completed reading this guide. We hope you enjoyed it and gained invaluable insights into the technical documentation tools you can use for your project. You have also learned about GitHub Pages - a free hosting service that integrates seamlessly with many software development tools, allowing you to upload and host your documentation online for free. This guide uses GitHub Desktop, a user-friendly GitHub application, to ensure a smooth setup process.

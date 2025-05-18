@@ -1,7 +1,7 @@
 ---
 title: Useful Links
 layout: default
-nav_order: 10
+nav_order: 9
 ---
 
 # Useful Links
@@ -14,7 +14,9 @@ If you want to educate yourself further on any topic from this project, feel fre
 
 [Markdown Documentation](https://www.markdownguide.org/)
 
-[Just-the-Docs Documentation](https://just-the-docs.com/) 
+[Just-the-Docs Documentation](https://just-the-docs.com/)
+
+[Jekyll Documentation](https://jekyllrb.com/docs/)
 
 [MadCap Flare Documentation](https://www.madcapsoftware.com/support/)
 
